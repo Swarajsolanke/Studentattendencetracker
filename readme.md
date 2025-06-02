@@ -20,6 +20,12 @@ This Python project automates attendance tracking using an Excel file and sends 
 
 ---
 
+1. this is the real time message send to student and staff 
+![image](https://github.com/user-attachments/assets/1e0a4889-8e88-4956-8624-3a8d9813f1dd)
+
+![image](https://github.com/user-attachments/assets/dd7b305c-7dd8-481e-85a2-694051d6dae1)
+
+
 ## 📦 Installation
 
 1. Clone the repository or copy the script.
@@ -27,11 +33,10 @@ This Python project automates attendance tracking using an Excel file and sends 
 
 ```bash
 pip install openpyxl
+================
 
 
 
 
-1. this is the real time message send to student and staff 
-![image](https://github.com/user-attachments/assets/1e0a4889-8e88-4956-8624-3a8d9813f1dd)
 
-![image](https://github.com/user-attachments/assets/dd7b305c-7dd8-481e-85a2-694051d6dae1)
+
